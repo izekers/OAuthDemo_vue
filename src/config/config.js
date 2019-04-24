@@ -17,7 +17,7 @@ var config={
   clientId: "97c81931476b84be6746",
   client_secret:"7b38a22c72c35ee37d231c0c89d5c5630a099d84",
   //申请的权限范围
-  scope:"user",
+  scope:"read_user",
   //可选参数，客户端的当前状态，可以指定任意值，用于校验，此次案例不做相关认证
   state:"",
   //一些固定的请求参数
